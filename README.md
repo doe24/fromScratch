@@ -25,3 +25,8 @@ Dev Dependencies
     "grunt-compare-size": "~0.4.0",
     "gzip-js": "~0.3.2",
     "grunt-contrib-compress": "~0.5.1"
+
+==================================================================================================================================================================================================================================================================
+
+This code is not obvious from official version, because I don't want to deal with license.
+I will make this code in naive solution.
